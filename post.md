@@ -1,11 +1,11 @@
 ---
-title: "JunYong's first blog!!"
-excerpt: "Let's start to write first sentence!"
+title:  "JunYong's first blog!!"
+excerpt:  "Let's start to write first sentence!"
 categories:
--Blog
+  - Blog
 tags:
--Blog
-last_modified_at:2022-05-02T14:49:18-05:00
+  - Blog
+last_modified_at: 2022-05-02
 ---
 글작성하기 위해 마크다운을 공부해서 
 좋은 글들을 작성해 보자.
